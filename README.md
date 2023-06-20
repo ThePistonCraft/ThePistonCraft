@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, ich bin Max</h1>
 <h3 align="center">Minecraft Plugin Developer seit 2019</h3>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 Ich arbeite zurzeit an [null](null)
 
 - 🌱 Ich lerne zurzeit **Swift, Android - API**
