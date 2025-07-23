@@ -1,8 +1,41 @@
-<h1 align="center">Hey👋, ich bin Max</h1>
-<h3 align="center">Minecraft Plugin Developer seit 2019</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 Ich arbeite zurzeit an [null](null) <br>
-- 🌱 Ich lerne zurzeit **Swift, Android - API**
+# 👋 Hey, ich bin einCode_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+Willkommen auf meinem GitHub-Profil!  
+Ich bin Java-Entwickler seit **Februar 2019**, bastle gerne an kleinen Projekten in Minecraft und erkunde die Welt des Codes, mit einem Auge auf Kotlin 👀
+
+---
+
+## 🚀 Über mich
+
+- 🔨 Programmiere in **Java** seit 2019
+- 🎯 Möchte **Kotlin** lernen (bald geht's los!)
+- 🌐 Experimentiere nebenbei mit **HTML** & **Tailwind CSS**
+- 💻 Lieblings-Tools: **IntelliJ IDEA** & **Visual Studio Code**
+- 💬 Auf **Discord** findest du mich als `einCode`
+- 🧃 Fun Fact: Ich verbessere ständig meinen Code außer er läuft. Dann bleibt er erstmal so 😅
+
+---
+
+## 🛠️ Sprachen & Tools
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin (bald)](https://img.shields.io/badge/-Kotlin_(soon)-7f52ff?style=flat&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![einCode_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePistonCraft&show_icons=true&theme=default&count_private=true&hide=issues)
+
+---
+
+## 🤝 Kontakt & Social
+
+> Ich bin eher hier unterwegs:
+
+- 💬 **Discord:** `einCode`
+- 💻 **Editoren:** IntelliJ IDEA & VS Code
