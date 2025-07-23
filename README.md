@@ -29,7 +29,7 @@ Ich bin Java-Entwickler seit **Februar 2019**, bastle gerne an kleinen Projekten
 
 ## 📈 GitHub Stats
 
-![einCode_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePistonCraft&show_icons=true&theme=default&count_private=true&hide=issues)
+![einCode_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePistonCraft&show_icons=true&theme=radical)
 
 ---
 
