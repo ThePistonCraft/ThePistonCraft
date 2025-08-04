@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThePistonCraft&label=Profile%20views&color=e34f26&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ThePistonCraft?logo=github&style=flat-square&color=007396" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=einCodeReal&label=Profile%20views&color=e34f26&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/einCodeReal?logo=github&style=flat-square&color=007396" alt="GitHub Followers" />
 </p>
 
 ---
@@ -59,14 +59,14 @@ public class Developer {
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ThePistonCraft&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=einCodeReal&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePistonCraft&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einCodeReal&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePistonCraft&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=einCodeReal&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -122,7 +122,7 @@ this.hopeForTheBest();
 <div align="center">
 
 ![Discord](https://img.shields.io/badge/-einCode-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![GitHub](https://img.shields.io/badge/-ThePistonCraft-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-einCodeReal-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Hauptsächlich auf Discord unterwegs: `einCode`**
 
