@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer+since+February+2019;Minecraft+Plugin+Creator;Code+War+Criminal;Professional+Spaghetti+Coder&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=einCodeReal&label=Profile%20views&color=e34f26&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/einCodeReal?logo=github&style=flat-square&color=007396" alt="GitHub Followers" />
 </p>
